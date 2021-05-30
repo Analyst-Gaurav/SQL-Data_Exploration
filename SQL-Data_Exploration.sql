@@ -1,4 +1,8 @@
--- dataset of covid_deaths
+-- This is the code for SQl-Data Exploration project. 
+-- I used data from 15 January 2020 to 30 May 2021(Today) 
+-- I wrote this code in Google BugQuery but you can use this code on any RDBMS just by changing syntax.
+
+-- Dataset of covid_deaths
 select *
 from portfolio-project-315209.covid19.covid_deaths
 
