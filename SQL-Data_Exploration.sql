@@ -101,3 +101,4 @@ select
 from portfolio-project-315209.covid19.covid_deaths dth
 join portfolio-project-315209.covid19.covid_vaccinations vac using(location,date)
 order by dth.location, dth.date
+
